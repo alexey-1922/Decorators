@@ -1,0 +1,12 @@
+beautifulsoup4
+bs4
+certifi
+charset-normalizer
+fake-headers
+html5lib
+idna
+requests
+six
+soupsieve
+urllib3
+webencodings
